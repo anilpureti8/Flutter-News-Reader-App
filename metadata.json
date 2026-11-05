@@ -1,0 +1,6 @@
+{
+  "name": "Flutter News Reader Studio",
+  "description": "Production-ready Flutter 3.35+ News Reader Android application with Provider state management, 4-state architecture, Material 3 theming, validated note forms, and offline persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
